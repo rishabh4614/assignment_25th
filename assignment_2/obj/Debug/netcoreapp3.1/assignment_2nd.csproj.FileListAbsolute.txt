@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\bin\Debug\netcoreapp3.1\assignment_2nd.exe
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\bin\Debug\netcoreapp3.1\assignment_2nd.deps.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\bin\Debug\netcoreapp3.1\assignment_2nd.runtimeconfig.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\bin\Debug\netcoreapp3.1\assignment_2nd.runtimeconfig.dev.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\bin\Debug\netcoreapp3.1\assignment_2nd.dll
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\bin\Debug\netcoreapp3.1\assignment_2nd.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\obj\Debug\netcoreapp3.1\assignment_2nd.csproj.AssemblyReference.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\obj\Debug\netcoreapp3.1\assignment_2nd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\obj\Debug\netcoreapp3.1\assignment_2nd.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\obj\Debug\netcoreapp3.1\assignment_2nd.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\obj\Debug\netcoreapp3.1\assignment_2nd.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\obj\Debug\netcoreapp3.1\assignment_2nd.dll
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\obj\Debug\netcoreapp3.1\assignment_2nd.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_2nd\obj\Debug\netcoreapp3.1\assignment_2nd.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\bin\Debug\netcoreapp3.1\assignment_25th.exe
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\bin\Debug\netcoreapp3.1\assignment_25th.deps.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\bin\Debug\netcoreapp3.1\assignment_25th.runtimeconfig.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\bin\Debug\netcoreapp3.1\assignment_25th.runtimeconfig.dev.json
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\bin\Debug\netcoreapp3.1\assignment_25th.dll
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\bin\Debug\netcoreapp3.1\assignment_25th.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\obj\Debug\netcoreapp3.1\assignment_25th.csproj.AssemblyReference.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\obj\Debug\netcoreapp3.1\assignment_25th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\obj\Debug\netcoreapp3.1\assignment_25th.AssemblyInfoInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\obj\Debug\netcoreapp3.1\assignment_25th.AssemblyInfo.cs
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\obj\Debug\netcoreapp3.1\assignment_25th.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\obj\Debug\netcoreapp3.1\assignment_25th.dll
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\obj\Debug\netcoreapp3.1\assignment_25th.pdb
+C:\Users\Rishabh\Documents\Visual Studio 2019\assignment\Assignment_25_Jan\assignment_25th\obj\Debug\netcoreapp3.1\assignment_25th.genruntimeconfig.cache
